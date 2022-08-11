@@ -1,0 +1,42 @@
+.cards{
+    width: 19.5rem;
+    height: 18rem;
+    margin:.8rem;
+}
+
+.buttonSeeMore{
+    color: #378072 !important;
+       
+}
+
+.buttonSeeMore:hover{
+    text-shadow: .8px .8px .8px white;
+}
+
+.buttonCard{
+    text-decoration: none !important;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.imgCards{
+    height: 12rem !important;
+}
+
+.nameCard{
+    height: 3rem;
+}
+
+.MuiTypography-root{
+    font-size: 1.3rem !important;
+}
+
+@media (min-width: 2500px) {
+    .cards{
+        width: 39.5rem;
+    }
+    
+     
+
+  }

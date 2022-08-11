@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Libre+Baskerville&family=Licorice&display=swap');
+
+.bgimage {
+    width:100%;
+    min-height:40vh;
+    background: url('https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+   
+  }
+  .bgimage h1 {
+    color:white;
+    text-shadow:2px 2px #333;
+    font-size: 6rem;
+    font-family: 'Dancing Script', cursive;
+  }
+
+  .buttonHero:before{
+    content:"";
+    animation: changingTxt 6s linear infinite;
+    font-size: medium;
+    padding: 10px;
+    font-size: 1.2rem;
+
+  }
+  .sub{
+    font-size: 1.4rem;
+    color: white;
+    -webkit-text-stroke:.8px black;
+    margin-bottom: 2rem;
+    
+  }
+  @keyframes changingTxt {
+    0%{
+      content:"Click here";
+    } 
+      
+    25%{
+      content:"to See";
+    }
+    
+    50%{
+      content:"the most Popular";
+    }
+
+    75%{
+      content:"Cities";
+    }
+
+    100%{
+      content:"to Visit!!";
+    }
+    
+  }
+
+  @keyframes latidos {
+    from { transform: none; }
+    50% { transform: scale(1.1); }
+    to { transform: none; }
+  }
+  
+  .buttonHero {
+    
+  display: inline-block;
+  text-shadow: 0 0 3px #222,1px 1px  0 #378072;
+  animation: latidos 2.5s infinite;
+  transform-origin: center;
+  margin-bottom: 10px;
+  
+  }
+
+  @media (max-width: 400px) {
+    .bgimage h1{
+      font-size: 2rem;
+     }
+     .sub{
+      font-size: 1rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .bgimage h1{
+      font-size: 3rem;
+     }
+     .sub{
+      font-size: 1.2rem;
+    }
+  }
+  
+  @media (min-width: 2500px) {
+    .bgimage h1{
+      font-size: 12rem;
+     }
+    
+     .sub{
+      font-size: 3rem;
+    }
+
+  }
+
+  

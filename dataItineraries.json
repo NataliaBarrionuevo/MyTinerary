@@ -1,0 +1,114 @@
+{
+    "data":[
+        {
+          "city": "New York",
+          "itineraryName":"BROOKLYN TOUR",
+          "personPhoto":"https://images.generated.photos/qRiJyZx-Zskp_xSfM4dmO1ZYx19A4_0oAj2RPfNg9ts/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MzE1ODAwLmpwZw.jpg" ,
+          "personName": "Janice Milne",
+          "price":"💵💵💵",
+          "durationH":"2 hours",
+          "hashtags":["#Bridge","#BotanicalGarden","#Museum"],
+          "likes":"",
+          "activities":""
+
+        },
+        {
+          "city": "New York",
+          "itineraryName":"STATE OF LIBERTY CRUISE",
+          "personPhoto": "https://images.generated.photos/hkTHIyptk8Y_Gpynqb4IPeSzU2lZHrCypGcvOW9rnQ8/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTA0NDI3LmpwZw.jpg",
+          "personName": "Zishan Dupont",
+          "price":"💵💵💵💵",
+          "durationH":"3 hours",
+          "hashtags": ["#NY,#StatueOfLiberty","#Cruise"],
+          "likes":"",
+          "activities":""
+
+        },
+        {
+          "city": "Paris",
+          "itineraryName": "NIGHT IN PARIS",
+          "personPhoto": "https://images.generated.photos/AcS3HQKYycjzrUSgMGp_S19LtwLq1l4UoZt4VoP_BJw/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTYxOTcyLmpwZw.jpg",
+          "personName": "Will Halliday",
+          "price":"💵💵💵💵💵",
+          "durationH":"4 hours",
+          "hashtags": ["#EiffelTower","#MoulingRouge","#CityOfLove"],
+          "likes":"",
+          "activities":""
+
+        },
+        {
+          "city":"Paris",
+          "itineraryName":"CULTURAL TOUR",
+          "personPhoto":"https://images.generated.photos/AcW_fm-1bh0hY23z5eYoZvgKzq_uwXzY72HuviJdpZg/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDcwNTI3LmpwZw.jpg",
+          "personName": "Blane Stuart",
+          "price": "💵💵💵",
+          "durationH":"4 hours",
+          "hashtags":["#Culture","#Explore","#Museum"],
+          "likes":"",
+          "activities":""
+
+        },
+        {
+            "city":"Sydney",
+          "itineraryName":"SIDNEY OPERA HOUSE",
+          "personPhoto":"https://images.generated.photos/JfcCdh-C8EdBvkQvSwlcn11CygzgB1XQJktg0kJEtx8/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MTU4Njk2LmpwZw.jpg",
+          "personName":"Dion Mccormick",
+          "price":"💵💵💵💵",
+          "durationH":"3 hours",
+          "hashtags":["#Opera","#Sydney"],
+          "likes":"",
+          "activities":""
+
+        },
+        {
+            "city":"Sydney",
+            "itineraryName": "SYDNEY HARBOUR",
+            "personPhoto":"https://images.generated.photos/0DizM3AotNmyElKr85daCuort4YfBjTzyrVEAPND7oI/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjU4MDA1LmpwZw.jpg" ,
+            "personName":"Cheyanne Hubbard",
+            "price":"💵💵💵",
+            "durationH":"3 hours",
+            "hashtags": ["#Harbour","#Opera","#Landscapes"],
+            "likes":"",
+            "activities":""
+  
+        },
+        {
+          "city":"Tokyo",
+          "itineraryName":"TSUKIJI FISH MARKET FOOD AND CULTURE WALKING TOUR",
+          "personPhoto":"https://images.generated.photos/LFccGguedwf-w-Ax8gcY-HxMX3GaOZQ6dJM0uD5ogpQ/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjQwODY0LmpwZw.jpg",
+          "personName":"Dai Kimura",
+          "price":"💵💵💵💵",
+          "durationH":"3 hours",
+          "hashtags":["#Japan","#Food","#Culture"],
+          "likes":"",
+          "activities":""
+
+        },
+        
+        {
+          "city":"Venecia",
+          "itineraryName":"GONDOLA RIDE THROUGH THE CANALS OF VENICE",
+          "personPhoto": "https://images.generated.photos/1yhHijGoaPbIAg4EbDCxV00HwDaeHr6hy0n1MIvVLUQ/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTE5MTE2LmpwZw.jpg",
+          "personName":"Rea Kinney",
+          "price":"💵💵",
+          "durationH": "3 hours",
+          "hashtags": ["#Visitvenecia","#Love","#Italy"] ,
+          "likes":"",
+          "activities":""
+
+        },
+        {
+          "city":"Cinque Terre",
+          "itineraryName":"SUNSET BOAT TOUR",
+          "personPhoto":"https://images.generated.photos/t0jbIXFM6w6vg06CtKQrK3X4OmxGNFjVjnzVtwKk2ZY/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDA5MTkwLmpwZw.jpg",
+          "personName":"Amani Frye",
+          "price":"💵💵💵💵",
+          "durationH":"3 hours",
+          "hashtags":["#Boat","#Dock","#Towns"],
+          "likes":"",
+          "activities":""
+
+        }
+
+    ]
+}

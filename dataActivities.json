@@ -1,0 +1,128 @@
+{
+    "data":[
+        {
+            "title":"Brooklyn Museum",
+            "image":"https://aws-tiqets-cdn.imgix.net/images/content/4c9bd16ddfdf4b689821fe6ded0f3658.jpg?auto=format&fit=crop&h=800&ixlib=python-3.2.1&q=70&w=800&s=83e206abee7eea0da5ff2a51c2aa4c0c"
+            
+        },
+        {
+            "title":"Botanical Garden",
+            "image": "https://media.timeout.com/images/105649192/image.jpg"
+            
+        },
+        {
+            "title": "Brooklyn Bridge",
+            "image": "https://astelus.com/wp-content/viajes/puente-brooklyn-nueva-york.jpg"
+            
+        },
+        {
+            "title":"State of Liberty",
+            "image":"https://i.guim.co.uk/img/media/4a29dde46c17e8a07f98e4e5947d49964d074923/0_348_6000_3600/master/6000.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=88c75e6319ec9d3588bb6e17ae92ff68" 
+            
+        },
+        {
+            "title":"Ellis Island" ,
+            "image": "https://www.history.com/.image/t_share/MTU3ODc5MDg2NDM0ODg2OTg1/aerial-view-of-ellis-island-new-york-north-america.jpg"
+            
+        },
+        {
+            "title":"Manhattan Skyline",
+            "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a4/59/20/photo5jpg.jpg?w=1200&h=-1&s=1"
+            
+        },
+  
+        {
+            "title":"Eiffel Tower",
+            "image":"https://www.rd.com/wp-content/uploads/2017/10/Taking-Photos-of-the-Eiffel-Tower-at-Night-Is-Actually-Illegal%E2%80%94Here%E2%80%99s-Why_539965834_Tom-Eversley-ft.jpg?fit=700,625"
+            
+        },
+        {
+            "title": "Moulin Rouge",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Moulin_rouge.jpg"
+            
+        },
+        {
+            "title":"Carrousel du Louvre",
+            "image":"https://m.media-amazon.com/images/I/811GFr+sw2L._AC_SL1500_.jpg"
+            
+        },
+        {
+            "title": "Basilique du Sacre-Coeur de Montmartre",
+            "image":"https://images.france.fr/zeaejvyq9bhj/78HkYDIusM8o6yCwwSuoCC/7e53b3234b0f89c8f3b4520fa620010b/sacre-coeur-paris.jpg?w=1120&h=490&q=70&fl=progressive&fit=fill"
+            
+        },
+        {
+            "title":"Montmartre",
+            "image":"https://parisando.b-cdn.net/wp-content/uploads/sites/11/2022/03/barrio-Montmartre-en-paris.jpg"
+            
+        },
+        {
+            "title":"Palace of Versailles",
+            "image":"https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/5f/51.jpg"
+            
+        },
+        {
+            "title": "La Boheme",
+            "image":"https://www.seattleopera.org/globalassets/images/galleries/2017-2018-season/2018-aida/00_gallery_aida.jpg"
+            
+        },
+        {
+            "title":"Turandot",
+            "image":"https://i.ytimg.com/vi/zsgkHC7yfVs/maxresdefault.jpg"
+            
+        },
+        {
+            "title":"Otello",
+            "image":"https://www.sydneyoperahouse.com/content/dam/soh/events/opera-australia/2022/otello/gallery/otello22ss-6-16x9.jpg"
+        },
+        {
+            "title":"Jet Boat",
+            "image": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/34/b0/32.jpg"
+        },
+        {
+            "title": "Toronga Zoo",
+            "image":"https://planetofhotels.com/guide/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/Taronga-Zoo.jpg"
+        },
+        {
+            "title":"Sydney Tower",
+            "image":"https://www.pasaporteaustral.com/media/k2/galleries/130/SYDNEY%20TOWER%20EYE.jpg"
+        },
+        {
+            "title":"Tsukiji Hongwanji Temple",
+            "image": "https://a0.cdn.japantravel.com/photo/9290-60286/1000/tokyo-tsukiji-honganji-temple-tokyo-60286.jpg"
+        },
+        {
+            "title": "Tsukiji Jogai Market",
+            "image":"https://media-cdn.tripadvisor.com/media/photo-s/1a/5b/ea/03/caption.jpg"
+        },
+        {
+            "title":"Tsukiji Uogashi" ,
+            "image":"https://uniquevenues-en.metro.tokyo.lg.jp/venues/22005/images/mainvisual_2.jpg"
+        },
+        {
+            "title": "Ponte dell'Accademia",
+            "image": "https://universes.art/fileadmin/user_upload/Art-Destinations/Venice-Art-Destination/Tours/Canal-Grande-5/01-IMG_0806-B.jpg"
+        },
+        {
+            "title":"Basilica di Santa Maria della Salute",
+            "image":"http://laguiadevenecia.com/wp-content/uploads/2018/04/Bas%C3%ADlica-Santa-Mar%C3%ADa-Salud-Venecia.jpg"
+        },
+        {
+            "title":"Peggy Guggenheim Collection ",
+            "image":"https://www.worldartfoundations.com/wp-content/uploads/2020/08/pgc-exterior-2014_ph004-edited-sb.640x0.jpg"
+        },
+        {
+            "title":"Parco Nazionale Cinque Terre" ,
+            "image":"https://usercontent.one/wp/antropocene.it/wp-content/uploads/2018/11/Parco-Nazionale-delle-cinque-terre.jpg"
+        },
+        {
+            "title":"Vernazza",
+            "image":"https://st3.idealista.it/cms/archivie/styles/amp_1200x675_16_9/public/2022-01/media/image/it_main_wikimedia.jpeg?VersionId=v29iSnXfjts63oLf4azA5DLDMQZpvN0V&fv=1ZflbygX&itok=SjgkMEpp"
+        },
+        {
+            "title":"Corniglia",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Corniglia_panorama.jpg"
+        }
+        
+    ]
+}

@@ -1,0 +1,64 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.containerInput{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    width: 50%;
+}
+
+.containerCards{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    
+}
+
+.notResults{
+    display: flex;
+    flex-direction: column;
+}
+
+.containerCards h4{
+    color: white;
+    font-size: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgNotResult{
+    width: 32rem;
+}
+
+input.form-control{
+    background-color: #378072;
+    opacity: 0.7;
+    
+}
+
+input.form-control::placeholder{
+    color:white;
+    
+}
+
+.containerCardsCities{
+    display: flex;
+}
+
+main{
+    min-height: 100vh !important;
+}
+

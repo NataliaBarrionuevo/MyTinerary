@@ -1,0 +1,28 @@
+  .linkNav{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: medium;
+    border: none;
+    margin-right: 1.5rem;
+  }
+
+  .linkNav:hover{
+    color: #378072;
+  }
+
+  .logOut{
+    color: white;
+    
+  }
+
+  .logOut:hover{
+    color: #378072;
+    background-color: black;
+  }
+
+  .MuiMenuItem-root:hover{
+    background-color: black !important;
+  }
+
+  

@@ -1,0 +1,61 @@
+.container-sign{
+    background-color: white !important;
+    opacity: .9 !important;
+    padding: 2rem 3rem;
+    border-radius: 2%;
+    box-shadow: 4px 4px 4px black;
+}
+
+.container-googlesign{
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+
+}
+
+.container-linksign{
+    
+    width: 20rem;
+}
+
+.container-linksign a{
+    
+    text-decoration: none;
+    color: #378072;
+    font-weight: bold;
+}
+
+.container-linksign:hover a{
+    
+    text-shadow: 1px 1px 1px black;
+}
+
+.titlesign{
+    color: white;
+    margin-top: 2rem;
+    font-family: 'Dancing Script', cursive;
+    -webkit-text-stroke:.5px black;
+    font-size: 4.4rem;
+    
+}
+
+.formsign {
+    text-shadow: 2px 2px 2px #378072;
+    font-size: 1.9rem !important;
+      
+}
+
+.swal2-confirm {
+    background-color: #378072 !important;
+}
+
+.swal2-title{
+    font-size: 1.5rem !important;
+    text-shadow: 1px 1px 1px #378072;
+    font-weight: lighter !important;
+}
+
+.btnsign{
+    background-color: #378072 !important;
+}
+

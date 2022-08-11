@@ -1,0 +1,51 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.MuiPaper-root{
+  background-color: black !important ;
+  color: white !important;
+    
+}
+
+.container-sub{
+  margin-top:30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.styles_scroll-to-top__2A70v{
+  margin-bottom:3.8rem !important;
+  background-color:#378072 !important;
+  opacity: 0.7;
+  
+}
+
+main{
+  background: url('https://media.traveler.es/photos/6137643468a6ada2592a6775/1:1/w_1114,h_1114,c_limit/190184.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+  
+}
+
+
+@media (max-width: 400px) {
+  .styles_scroll-to-top__2A70v{
+    margin-bottom:3.2rem !important;
+        
+  }
+}
+
+
+
+
